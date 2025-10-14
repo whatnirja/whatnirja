@@ -3,7 +3,7 @@
 # 🌷 Hi, I'm <span style="color:#FFB6C1;">Nirja Dabhi</span>
 *Full-Stack Developer | DevOps Learner | AI Explorer*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poetsen+One&size=28&pause=1000&color=FFB6C1&center=true&vCenter=true&width=600&lines=✨+Turning+ideas+into+impactful+apps;🌸+Building+beautiful+tech+solutions;🌈+Learning+and+glowing+every+day)](https://git.io/typing-svg)
+<!--  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poetsen+One&size=28&pause=1000&color=FFB6C1&center=true&vCenter=true&width=600&lines=✨+Turning+ideas+into+impactful+apps;🌸+Building+beautiful+tech+solutions;🌈+Learning+and+glowing+every+day)](https://git.io/typing-svg) -->
 
 </div>
 
@@ -22,7 +22,7 @@
 
 
 ##  GitHub Stats
-<div align="center">
+<div align="center" style="color:white">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=whatnirja&show_icons=true&theme=rose_pine&title_color=FFB6C1&icon_color=FFC0CB&bg_color=ffffff00&text_color=000000)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whatnirja&layout=compact&theme=rose_pine&title_color=FFB6C1&bg_color=ffffff00&text_color=000000)
@@ -44,7 +44,6 @@
 
 </div>
 
----
 
 <div align="center">
   
