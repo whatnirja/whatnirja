@@ -24,7 +24,7 @@
 ##  GitHub Stats
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=whatnirja&show_icons=true&title_color=FFB6C1&text_color=FFFFFF&icon_color=FFC0CB&bg_color=00000000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=whatnirja&show_icons=true&title_color=FFB6C1&text_color=FFFFFF&icon_color=FFC0CB&bg_color=00000000) <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whatnirja&layout=compact&title_color=FFB6C1&text_color=FFFFFF&bg_color=00000000)
 
 </div>
@@ -33,7 +33,7 @@
 ## Links
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/nirjadabhi0912/)) <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/nirjadabhi0912/)) 
 [![Email](https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirjadabhii@gmail.com)
 
 </div>
