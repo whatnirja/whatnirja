@@ -33,7 +33,7 @@
 ## Links
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/nirjadabhi0912/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/nirjadabhi0912/)) 
 [![Email](https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirjadabhii@gmail.com)
 
 </div>
