@@ -47,6 +47,6 @@
 
 <div align="center">
   
-*Made with love and a potential overload of caffeine* 
+*made with love and a potential overload of caffeine* 
 
 </div>
