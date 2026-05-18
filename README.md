@@ -50,7 +50,7 @@
 
 ---
 
-## ✨ Featured Projects
+## Featured Projects
 
 ### 🌷 [youreindebt](https://github.com/whatnirja/youreindebt) — Gen AI Scholarship Aggregator
 A full RAG pipeline helping Ontario students navigate OSAP cuts. Vector embeddings via OpenAI + OpenRouter, semantic search on Supabase pgvector, Gemini 1.5 Flash for personalized eligibility reasoning.
@@ -62,7 +62,7 @@ Capstone project — a senior care app with role-based access for seniors, famil
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=whatnirja&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFB6C1&icon_color=FFC0CB&text_color=F8F8F8" />
