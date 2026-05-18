@@ -21,11 +21,12 @@
 </div>
 
 
-##  GitHub Stats
+## GitHub Stats
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=whatnirja&show_icons=true&title_color=FFB6C1&text_color=FFFFFF&icon_color=FFC0CB&bg_color=00000000) <br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whatnirja&layout=compact&title_color=FFB6C1&text_color=FFFFFF&bg_color=00000000)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=whatnirja&show_icons=true&theme=transparent&hide_border=true&title_color=FFB6C1&icon_color=FFC0CB&text_color=F8F8F8" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whatnirja&layout=compact&theme=transparent&hide_border=true&title_color=FFB6C1&text_color=F8F8F8" />
 
 </div>
 
