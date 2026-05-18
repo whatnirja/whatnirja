@@ -23,9 +23,11 @@
 
 ## GitHub Stats
 
-![Nirja's GitHub stats](https://github-readme-stats.vercel.app/api?username=whatnirja&show_icons=true)
+<p align="center">
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=whatnirja&show_icons=true&theme=transparent&hide_border=true&title_color=FFB6C1&icon_color=FFC0CB&text_color=F8F8F8" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whatnirja&layout=compact)
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=whatnirja&layout=compact&theme=transparent&hide_border=true&title_color=FFB6C1&text_color=F8F8F8" />
+</p>
 
 
 ## Links
