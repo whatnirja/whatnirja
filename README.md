@@ -7,7 +7,7 @@
 
 ---
 
-## 🌸 Tech Stack
+##  Tech Stack
 
 #### Languages
 
@@ -72,17 +72,8 @@ Capstone project — a senior care app with role-based access for seniors, famil
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=whatnirja&theme=transparent&hide_border=true&ring=FFB6C1&fire=FFC0CB&currStreakLabel=FFB6C1" />
 </p>
-
+💌
 ---
-
-## 💌 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirjadabhi0912/)
-[![Email](https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirjadabhii@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-FADADD?style=for-the-badge&logo=github&logoColor=black)](https://github.com/whatnirja)
-
 </div>
 
 <div align="center">
