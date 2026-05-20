@@ -58,7 +58,7 @@ A full RAG pipeline helping Ontario students navigate OSAP cuts. Vector embeddin
 
 ### 🌸 [Pebble](https://github.com/whatnirja/pebble) — Elderly Care Platform
 Capstone project — a senior care app with role-based access for seniors, family members, and caregivers.
-*Java • Spring Boot • React Native • MongoDB • OCR*
+*Java • Spring Boot • React Native • MongoDB *
 
 ---
 
